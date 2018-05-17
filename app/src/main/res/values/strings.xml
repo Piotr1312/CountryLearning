@@ -1,0 +1,83 @@
+<resources>
+    <string name="app_name">CountryLearning</string>
+    <string name="start_learning">Start learning</string>
+    <string name="exit">Exit</string>
+    <string name="previous">Previous</string>
+    <string name="next">Next</string>
+    <string name="start_quiz">Start quiz</string>
+    <string name="go_back">Go back</string>
+    <string name="start_quiz_question">Start quiz?</string>
+    <string name="yes">Yes</string>
+    <string name="finish_question">Finish?</string>
+    <string name="start_second_run_question">Start second run?</string>
+    <string name="please_answer_all_questions">Please answer all questions</string>
+    <string name="result">Your result: %1$d/%2$d</string>
+    <string name="correct_answer">Correct answer!\n</string>
+    <string name="wrong_answer">Wrong answer!\n</string>
+    <string name="main_menu">Go to main menu</string>
+
+    <string name="france_description1">France is known the world over for its cuisine, fashion, culture and language. It is the most visited tourist destination in the world.  A key player on the global stage and a country at the political heart of Europe, France paid a high price in both economic and human terms during the two world wars.</string>
+    <string name="france_description2">France has been the world\'s most popular tourist destination for quite some time. It received 83.7 million visitors in 2014, although these figures are highly skewed by the number of people who frequent the country for the weekend, particularly to visit Disneyland Paris, Europe\'s most popular visitor attraction. France is one of the most geographically diverse countries in Europe, containing areas as different from each other as urban chic Paris, the sunny French Riviera, long Atlantic beaches, the winter sports resorts of the French Alps, the castles of the Loire Valley, rugged Celtic Brittany and the historian\'s dream that is Normandy. France is known the world over for its cuisine, fashion, culture and language.</string>
+    <string name="france_question1">France is known for:</string>
+    <string name="france_question1_answer1">a) weather</string>
+    <string name="france_question1_answer2">b) cuisine</string>
+    <string name="france_question1_answer3">c) poverty</string>
+    <string name="france_question1_answer_right">b) cuisine</string>
+    <string name="france_question2">France is:</string>
+    <string name="france_question2_answer1">a) the most popular tourist destination</string>
+    <string name="france_question2_answer2">b) the biggest country in the world</string>
+    <string name="france_question2_answer3">c) located in Asia</string>
+    <string name="france_question2_answer_right">a) the most popular tourist destination</string>
+
+    <string name="italy_description1">Italy (Italian: Italia) is a country in Southern Europe. Together with Greece, it is acknowledged as the birthplace of Western culture. Not surprisingly, it is also home to the greatest number of UNESCO World Heritage Sites in the world. High art and monuments are to be found everywhere around the country. It is also famous worldwide for its delicious cuisine, its trendy fashion industry, luxury sports cars and motorcycles, diverse regional cultures and dialects, as well as for its beautiful coast, alpine lakes and mountain ranges (the Alps and Apennines). No wonder it is often nicknamed the Bel Paese (the Beautiful Country).</string>
+    <string name="italy_description2">Italy, officially the Italian Republic (Repubblica italiana), is a country in Southern Europe, occupying the Italian Peninsula, as well as the Po Valley south of the Alps. Once the core of the mighty Roman Empire, and the cradle of the Renaissance, it is also home to the greatest number of UNESCO World Heritage Sites in the world, including high art and monuments. Italy is famous for its delicious cuisine, its trendy fashions, luxury sports cars and motorcycles, diverse regional cultures and dialects, as well as for its various sceneries from the seas to the Alps and Apennines, which makes reason for its nickname Il Bel Paese (the Beautiful Country).</string>
+    <string name="italy_question1">What is the nickname of Italy?</string>
+    <string name="italy_question1_answer1">a) the Beautiful Country</string>
+    <string name="italy_question1_answer2">b) the Ugly Country</string>
+    <string name="italy_question1_answer3">c) the Wonderful Country</string>
+    <string name="italy_question1_answer_right">a) the Beautiful Country</string>
+    <string name="italy_question2">Italy has:</string>
+    <string name="italy_question2_answer1">a) The lowest number of UNESCO World Heritage Sites</string>
+    <string name="italy_question2_answer2">a) 21 UNESCO World Heritage Sites</string>
+    <string name="italy_question2_answer3">c) The greatest number of UNESCO World Heritage Sites</string>
+    <string name="italy_question2_answer_right">c) The greatest number of UNESCO World Heritage Sites</string>
+
+    <string name="germany_description1">Germany, officially Federal Republic of Germany, German Deutschland or Bundesrepublik Deutschland, country of north-central Europe, traversing the continent’s main physical divisions, from the outer ranges of the Alps northward across the varied landscape of the Central German Uplands and then across the North German Plain. One of Europe’s largest countries, Germany encompasses a wide variety of landscapes: the tall, sheer mountains of the south; the sandy, rolling plains of the north; the forested hills of the urbanized west; and the plains of the agricultural east. At the spiritual heart of the country is the magnificent east-central city of Berlin, which rose phoenixlike from the ashes of World War II and now, after decades of partition, is the capital of a reunified Germany.</string>
+    <string name="germany_description2">Germany, (officially: the Federal Republic of Germany; German: Bundesrepublik Deutschland) is the largest country in Central Europe. It is bordered to the north by Denmark, to the east by Poland and the Czech Republic, to the south by Austria and Switzerland, and to the west by France, Luxembourg, Belgium and the Netherlands. Germany is a federation of 16 states, roughly corresponding to regions with their own distinct and unique cultures. Germany is one of the most influential European nations culturally, and one of the world\'s main economic powers. Known around the world for its precision engineering and high-tech products. If you have perceptions of Germany as simply homogeneous, it will surprise you with its many historical regions and local diversity. The capital city of Germany is Berlin.</string>
+    <string name="germany_question1">What is the official name of Germany?</string>
+    <string name="germany_question1_answer1">a) Federal Republic of Germany</string>
+    <string name="germany_question1_answer2">b) Democratic Republic of Germany</string>
+    <string name="germany_question1_answer3">c) Republic of Germany</string>
+    <string name="germany_question1_answer_right">a) Federal Republic of Germany</string>
+    <string name="germany_question2">Which city is the capital of Germany?</string>
+    <string name="germany_question2_answer1">a) Vienna</string>
+    <string name="germany_question2_answer2">b) Berlin</string>
+    <string name="germany_question2_answer3">c) Hamburg</string>
+    <string name="germany_question2_answer_right">b) Berlin</string>
+
+    <string name="poland_description1">Poland\'s history as a state began near the middle of the 10th century. By the mid-16th century, the Polish-Lithuanian Commonwealth ruled a vast tract of land in Central and Eastern Europe. During the 18th century, internal disorders weakened the nation, and in a series of agreements between 1772 and 1795, Russia, Prussia, and Austria partitioned Poland among themselves. Poland regained its independence in 1918 only to be overrun by Germany and the Soviet Union in World War II. It became a Soviet satellite state following the war, but its government was comparatively tolerant and progressive. Labor turmoil in 1980 led to the formation of the independent trade union "Solidarity" that over time became a political force with over 10 million members. Free elections in 1989 and 1990 won Solidarity control of the parliament and the presidency, bringing the communist era to a close. A "shock therapy" program during the early 1990s enabled the country to transform its economy into one of the most robust in Central Europe. Poland joined NATO in 1999 and the EU in 2004. With its transformation to a democratic, market-oriented country largely completed and with large investments in defense, energy, and other infrastructure, Poland is an increasingly active member of Euro-Atlantic organizations.</string>
+    <string name="poland_description2">The word "Poland" was written officially for the first time in 966. In 1569, Poland formed a strong union with Lithuania called the Polish-Lithuanian Commonwealth. At some point in its history, it was the largest state in Europe and became very influential. Much of the territory that now makes up Central European states used to belong to that Commonwealth. Eventually, after a slow decline, the Commonwealth collapsed in 1795. Poland regained its independence in 1918 after World War I. In 1921, Poland defeated Soviet Russia in the Polish-Soviet War that started in 1919. In 1989, Poland ceased being a communist country and became a liberal democracy. Its change of government was the first in a series of events that led to the states of Eastern and Central Europe regaining their independence and the fall of the USSR in 1991. After the democratic consolidation, Poland joined the European Union on 1 May 2004. Poland is also a member of NATO, the United Nations, and the World Trade Organization.</string>
+    <string name="poland_question1">In which year Poland has reagined its independence?</string>
+    <string name="poland_question1_answer1">a) 1920</string>
+    <string name="poland_question1_answer2">b) 1916</string>
+    <string name="poland_question1_answer3">c) 1918</string>
+    <string name="poland_question1_answer_right">c) 1918</string>
+    <string name="poland_question2">In which year Poland has joined the EU</string>
+    <string name="poland_question2_answer1">a) 2004</string>
+    <string name="poland_question2_answer2">b) 1999</string>
+    <string name="poland_question2_answer3">c) 2007</string>
+    <string name="poland_question2_answer_right">a) 2004</string>
+
+    <string name="russia_description1">Russia, country that stretches over a vast expanse of eastern Europe and northern Asia. Once the preeminent republic of the Union of Soviet Socialist Republics (U.S.S.R.; commonly known as the Soviet Union), Russia became an independent country after the dissolution of the Soviet Union in December 1991. Russia is a land of superlatives. By far the world’s largest country, it covers nearly twice the territory of Canada, the second largest. It extends across the whole of northern Asia and the eastern third of Europe, spanning 11 time zones and incorporating a great range of environments and landforms, from deserts to semiarid steppes to deep forests and Arctic tundra. Russia contains Europe’s longest river, the Volga, and its largest lake, Ladoga. Russia also is home to the world’s deepest lake, Baikal, and the country recorded the world’s lowest temperature outside the North and South poles.</string>
+    <string name="russia_description2">Russia, also officially known as the Russian Federation, is a sovereign country in Eurasia. At 17,125,200 square kilometres (6,612,100 sq mi), Russia is the largest country in the world by area, covering more than one-eighth of the Earth\'s inhabited land area, and the ninth most populous, with over 144 million people at the end of December 2017 (excluding Crimea). It spans 11 time zones. About 77% of the population live in the western, European part of the country. Russia\'s capital Moscow is one of the largest cities in the world; other major urban centers include Saint Petersburg, Novosibirsk, Yekaterinburg and Nizhny Novgorod. Extending across the entirety of Northern Asia and much of Eastern Europe, Russia spans eleven time zones and incorporates a wide range of environments and landforms. From northwest to southeast, Russia shares land borders with Norway, Finland, Estonia, Latvia, Lithuania and Poland (both with Kaliningrad Oblast), Belarus, Ukraine, Georgia, Azerbaijan, Kazakhstan, China, Mongolia and North Korea. It shares maritime borders with Japan by the Sea of Okhotsk and the U.S. state of Alaska across the Bering Strait.</string>
+    <string name="russia_question1">Russia is:</string>
+    <string name="russia_question1_answer1">a) the most popular tourist destination</string>
+    <string name="russia_question1_answer2">b) the biggest country in the world</string>
+    <string name="russia_question1_answer3">c) located in Africa</string>
+    <string name="russia_question1_answer_right">b) the biggest country in the world</string>
+    <string name="russia_question2">How many time zones spans Russia?</string>
+    <string name="russia_question2_answer1">a) 8</string>
+    <string name="russia_question2_answer2">b) 11</string>
+    <string name="russia_question2_answer3">c) 10</string>
+    <string name="russia_question2_answer_right">b) 11</string>
+</resources>
